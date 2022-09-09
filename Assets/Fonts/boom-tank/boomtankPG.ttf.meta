@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f840334d421d289418b5b8356f71f595
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Boom Tank
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c53cd74b3a1f9a043849d6404d81d4d6, type: 3}
+  - {fileID: 12800000, guid: c24829b989db53942a594baab994f622, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
